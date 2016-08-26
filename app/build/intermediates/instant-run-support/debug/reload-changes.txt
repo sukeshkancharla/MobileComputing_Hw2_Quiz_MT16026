@@ -1,0 +1,5 @@
+CHANGED,C:\Users\user\AndroidStudioProjects\Quiz_MT16026\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\user\AndroidStudioProjects\Quiz_MT16026\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\user\quiz_mt16026\CheatActivity$override.class
+CHANGED,C:\Users\user\AndroidStudioProjects\Quiz_MT16026\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\user\quiz_mt16026\HintActivity$override.class
+CHANGED,C:\Users\user\AndroidStudioProjects\Quiz_MT16026\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\user\quiz_mt16026\HintActivity$1$override.class
+CHANGED,C:\Users\user\AndroidStudioProjects\Quiz_MT16026\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\user\quiz_mt16026\CheatActivity$1$override.class
